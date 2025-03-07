@@ -1,0 +1,37 @@
+/* Body ka background aur font set karna */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Heading ka style */
+h1 {
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Paragraph ka style */
+p {
+    color: #666;
+    font-size: 16px;
+    text-align: center;
+}
+
+/* Button Styling */
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
